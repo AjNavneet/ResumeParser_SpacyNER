@@ -25,7 +25,7 @@ To aid in the development of the resume parser, NK.com has provided us with a da
 
 ## Objective
 
-Our objective is to leverage Natural Language Processing (NLP) and Machine Learning to develop a solution that can automatically identify and extract the aforementioned key elements from resumes, streamlining the hiring process for NK.com.
+To build resume parser model to automatically identify and extract the key elements from resumes, streamlining the hiring process for NK.com.
 
 ---
 
